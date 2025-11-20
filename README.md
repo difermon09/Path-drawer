@@ -1,12 +1,11 @@
-# Path Drawer
+# Path Drawer 
+It is a lightweight desktop application for designing, editing and exporting robot routes. I developed this application so my university robotics team wouldn't have to spend time manually programming routes. This README summarizes the application's purpose, main features, usage, and the planned v2.0 professional refactor.
 
-**Path Drawer** is a lightweight desktop application for designing, editing and exporting robot routes. I developed this application so my university robotics team wouldn't have to spend time manually programming routes. This README summarizes the application's purpose, main features, usage, and the planned v2.0 professional refactor.
-
-**Quick summary**
+## Quick summary
 - **Language & stack**: Python (PyQt / Qt), YAML for route export, small helper scripts for node integration.
 - **Primary use**: interactive route design for competition/field robots, with exportable route actions.
 
-**What this app does**
+## What this app does
 - Visual route editor: draw and edit paths on a grid or background map.
 - Set the robot's turning angle: set the robot's turning angle at each waypoint.
 - Grid precision: change the number of grid cells to increase or decrease route precision.
@@ -15,11 +14,11 @@
 - Export: generate YAML / simple formats consumable by robot control nodes.
 - Lightweight node integration: example ROS2 node code is included for quick testing and simulation.
 
-**Project structure (high level)**
+## Project structure
 - `path_drawer_app_code/`: main PyQt application source (UI windows, Route model, helpers)
 - `path_drawer_node/`: example ROS2 node and packaging for robot-side integration
 
-**Screenshots / Images**
+## Screenshots
 - Add a screenshot of the main window here (route editor + toolbar):
     ![Main window placeholder](./docs/images/main_window.png)
     <!-- IMAGE: main_window.png — screenshot showing the main route editing canvas, toolbar and property panel -->
@@ -30,7 +29,8 @@
     ![Export preview placeholder](./docs/images/export_preview.png)
     <!-- IMAGE: export_preview.png — show a snippet of the exported YAML and a short mapping to robot actions -->
 
-**Version 2.0 — professional refactor (current roadmap)**
+## Version 2.0 — professional refactor (current roadmap)
+
 I am actively developing a v2.0 with the following goals and improvements:
 
 - **SOLID principles applied**: the codebase is being refactored to follow Single Responsibility, Dependency Inversion and other SOLID principles so that components are decoupled and testable.
@@ -38,7 +38,7 @@ I am actively developing a v2.0 with the following goals and improvements:
 - **Polished UI**: redesign of colors, typography and iconography to present a professional product. 
 - **Route actions and automation**: full route authoring workflow — users will be able to create an entire route with ordered robot actions (e.g., drive to point, wait, actuate mechanism) and export a single, robot-ready plan. This enables immediate competition usage.
 
-**Contact & hiring note**
+## Contact & hiring note
 If you're interested in hiring or reviewing more of my work, please check the public repos in my GitHub profile or contact me directly. I originally developed this project as tooling for my university robotics team; additional robot-specific integrations live in private team repositories.
 
 If you need more details, feel free to contact me via my GitHub profile.
