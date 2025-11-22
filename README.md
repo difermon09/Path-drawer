@@ -20,13 +20,19 @@ It is a lightweight desktop application for designing, editing and exporting rob
 
 ## Screenshots
 - Start window:
-    ![Start_window](images/Start_window.png)
+<p align="center">
+  <img src="images/Start_window.png"/>
+</p>
     
 - Main window:
-    ![Main window](images/Main_window.png)
+<p align="center">
+  <img src="images/Main_window.png"/>
+</p>
   
 - Color window:
-    ![Color_window](images/Color_window.png)
+<p align="center">
+  <img src="images/Color_window.png"/>
+</p>
 
 ## Version 2.0 — professional refactor (current roadmap)
 
