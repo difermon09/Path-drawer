@@ -19,15 +19,14 @@ It is a lightweight desktop application for designing, editing and exporting rob
 - `path_drawer_node/`: example ROS2 node and packaging for robot-side integration
 
 ## Screenshots
-- Add a screenshot of the main window here (route editor + toolbar):
-    ![Main window placeholder](./docs/images/main_window.png)
-    <!-- IMAGE: main_window.png — screenshot showing the main route editing canvas, toolbar and property panel -->
-- Add a screenshot of the waypoint/action editor here:
-    ![Waypoint editor placeholder](./docs/images/waypoint_editor.png)
-    <!-- IMAGE: waypoint_editor.png — show the dialog where the user attaches actions to a waypoint -->
-- Add a screenshot of an exported YAML route or sample playback in the robot simulator:
-    ![Export preview placeholder](./docs/images/export_preview.png)
-    <!-- IMAGE: export_preview.png — show a snippet of the exported YAML and a short mapping to robot actions -->
+- Start window:
+    ![Start_window](images/Start_window.png)
+    
+- Main window:
+    ![Main window](images/Main_window.png)
+  
+- Color window:
+    ![Color_window](images/Color_window.png)
 
 ## Version 2.0 — professional refactor (current roadmap)
 
