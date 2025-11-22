@@ -19,19 +19,16 @@ It is a lightweight desktop application for designing, editing and exporting rob
 - `path_drawer_node/`: example ROS2 node and packaging for robot-side integration
 
 ## Screenshots
-- Start window:
+- Start window & Color window::
 <p align="center">
-  <img src="Screenshots/Start_window.png"/>
+  <img src="Screenshots/Start_window.png" width="40%"/>
+  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="Screenshots/Color_window.png" width="33%"/>
 </p>
-    
+
 - Main window:
 <p align="center">
   <img src="Screenshots/Main_window.png"/>
-</p>
-  
-- Color window:
-<p align="center">
-  <img src="Screenshots/Color_window.png"/>
 </p>
 
 ## Version 2.0 — professional refactor (current roadmap)
