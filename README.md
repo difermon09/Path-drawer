@@ -23,7 +23,7 @@ It is a lightweight desktop application for designing, editing and exporting rob
 <p align="center">
   <img src="Screenshots/Start_window.png" width="40%"/>
   &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="Screenshots/Color_window.png" width="33%"/>
+  <img src="Screenshots/Color_window.png" width="32.2%"/>
 </p>
 
 - Main window:
