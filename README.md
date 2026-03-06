@@ -1,4 +1,4 @@
-# Path Drawer 
+<h1 align="center">🗺️🖌️Path Drawer🖌️🗺️</h1>
 It is a lightweight desktop application for designing, editing and exporting robot routes. I developed this application so my university robotics team wouldn't have to spend time manually programming routes. This README summarizes the application's purpose, main features, usage, and the planned v2.0 professional refactor.
 
 ## Quick summary
