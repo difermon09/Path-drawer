@@ -12,6 +12,7 @@ It is a lightweight desktop application for designing, editing and exporting rob
 - Route & background management: load previously saved routes, load a different board/background image, and continue editing.
 - Appearance controls: change the grid color and toggle angle indicators for waypoints.
 - Export: generate YAML / simple formats consumable by robot control nodes.
+- Send: save the route in .yaml format and send it directly to the robot's nuc via ssh
 - Lightweight node integration: example ROS2 node code is included for quick testing and simulation.
 
 ## Project structure
